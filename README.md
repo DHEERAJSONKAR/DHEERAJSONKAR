@@ -4,8 +4,9 @@
 <h3 align="center">🚀 Full Stack Developer | 🎓 MCA Student | 🎧 Code x Music Lover</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DBF73&center=true&vCenter=true&multiline=true&width=1000&lines=Passionate+Full+Stack+Developer;Always+Learning+Something+New;Building+Smart+%26+Secure+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DBF73&center=true&vCenter=true&multiline=true&width=1000&height=70&lines=Passionate+Full+Stack+Developer;Always+Learning+Something+New;Building+Smart+%26+Secure+Apps" alt="Typing SVG" />
 </p>
+
 
 ---
 
