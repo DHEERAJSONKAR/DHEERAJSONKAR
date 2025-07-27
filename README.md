@@ -14,9 +14,9 @@
 
 - 🎯 Focused on MERN Stack Development +  Python Language
 - 🌐 Portfolio: [dkboy.vercel.app](https://dkboy.vercel.app)
-- 📩 Reach me: [dheerajsonkarmy@gmail.com](mailto:dheerajsonkarmy@gmail.com)
+- 📩 Email: [dheerajsonkarmy@gmail.com](mailto:dheerajsonkarmy@gmail.com)
 - 💼 Connect on: [LinkedIn](https://www.linkedin.com/in/dheeraj-sonkar-304b982b7/)
-- 🎵 Fun Fact: *Code flows better with Lo-Fi and chai ☕️*
+- 🎵 Fun Fact: *Code flows better with chai ☕️*
 
 ---
 
@@ -63,5 +63,5 @@
 
 ---
 
-> 💡 *Profile automatically generated and designed with love — last updated: 2025*
+> 💡 *Profile automatically generated and designed by Director Dheeraj— last updated: 2025*
 
