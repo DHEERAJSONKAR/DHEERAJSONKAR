@@ -11,7 +11,8 @@
 
 ### 👨‍💻 About Me
 
-- 🎯 Focused on MERN Stack Development + Python Language
+- 🎯 Focused on MERN Stack Development + Cybersecurity Awareness Projects
+- 🧠 Currently building: AI Resume Analyzer + Instagram Phishing Simulator
 - 🌐 Portfolio: [dkboy.vercel.app](https://dkboy.vercel.app)
 - 📩 Reach me: [dheerajsonkarmy@gmail.com](mailto:dheerajsonkarmy@gmail.com)
 - 💼 Connect on: [LinkedIn](https://www.linkedin.com/in/dheeraj-sonkar-304b982b7/)
@@ -19,17 +20,27 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" title="Canva"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
 </p>
 
 ---
@@ -37,24 +48,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHEERAJSONKAR&show_icons=true&theme=light&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DHEERAJSONKAR&theme=default&hide_border=true" width="48%" />
-</p>
-
----
-
-### 🎧 Spotify — What I’m Vibing To
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31hnoeqspgkpwjdlsd4ybhrwlwum&cover_image=true&theme=novatorem&show_offline=true&background_color=ffffff&interchange=false&bar_color=1DB954&bar_color_cover=true" width="65%" alt="Now Playing on Spotify" />
-</p>
-
----
-
-### 🐍 GitHub Activity Snake
-
-<p align="center">
-  <img src="https://github.com/DHEERAJSONKAR/DHEERAJSONKAR/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DHEERAJSONKAR&show_icons=true&theme=tokyonight&border_radius=10&custom_title=Dheeraj's+GitHub+Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DHEERAJSONKAR&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
 </p>
 
 ---
