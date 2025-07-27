@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <h1 align="center">Hi there 👋, I'm <span style="color:#00bfff">Dheeraj Sonkar</span></h1>
-<h3 align="center">🚀 Full Stack Developer | 🧠 BCA Student | 💻 Coding Enthusiast</h3>
+<h3 align="center">🚀 Full Stack Developer | 🧠 MCA Student | 💻 Coding Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&color=58A6FF&width=435&lines=I+am+a+Frontend+%2F+Backend+Developer;Learning+MERN+%2B+React+Native;I+Love+to+build+cool+projects" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 <!-- ABOUT ME SECTION -->
 ### 🙋‍♂️ About Me
 
-- 🌱 Currently learning: **React Native**, **MERN Stack**, & **Cybersecurity**
+- 🌱 Currently learning: **Python Language**, **MERN Stack**
 - 🔭 Building: *AI Resume Analyzer* | *Instagram Phishing Simulator*
 - 👨‍💻 All my projects are available at: [GitHub Repositories](https://github.com/DHEERAJSONKAR?tab=repositories)
 - 📫 Email: **dheerajsonkarmy@gmail.com**
@@ -57,7 +57,3 @@
 
 ---
 
-<!-- SNAKE SECTION -->
-### 🐍 Contribution Activity
-```md
-![Snake animation](https://github.com/DHEERAJSONKAR/DHEERAJSONKAR/blob/output/github-contribution-grid-snake.svg)
