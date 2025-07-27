@@ -11,8 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎯 Focused on MERN Stack Development + Cybersecurity Awareness Projects
-- 🧠 Currently building: AI Resume Analyzer + Instagram Phishing Simulator
+- 🎯 Focused on MERN Stack Development +  Python Language
 - 🌐 Portfolio: [dkboy.vercel.app](https://dkboy.vercel.app)
 - 📩 Reach me: [dheerajsonkarmy@gmail.com](mailto:dheerajsonkarmy@gmail.com)
 - 💼 Connect on: [LinkedIn](https://www.linkedin.com/in/dheeraj-sonkar-304b982b7/)
@@ -39,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" title="Canva"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
 </p>
 
@@ -65,3 +63,4 @@
 ---
 
 > 💡 *Profile automatically generated and designed with love — last updated: 2025*
+
