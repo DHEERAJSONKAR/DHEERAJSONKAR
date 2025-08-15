@@ -19,6 +19,8 @@
 - 🎵 Fun Fact: *Code flows better with chai ☕️*
 
 ---
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DHEERAJSONKAR&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🧰 Tech Stack & Tools
 
