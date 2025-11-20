@@ -13,7 +13,7 @@
 ### 👨‍💻 About Me
 
 - 🎯 Focused on MERN Stack Development +  Python Language
-- 🌐 Portfolio: [dheerajsonkar.me]((https://www.dheerajsonkar.me/))
+- 🌐 Portfolio: [dheerajsonkar.me](https://www.dheerajsonkar.me/)
 - 📩 Email: [dheerajsonkarmy@gmail.com](mailto:dheerajsonkarmy@gmail.com)
 - 💼 Connect on: [LinkedIn](https://www.linkedin.com/in/dheerajsonkar/)
 - 🎵 Fun Fact: *Code flows better with chai ☕️*
