@@ -57,6 +57,7 @@
 </p> -->
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DHEERAJSONKAR&theme=tokyonight&border_radius=10" width="48%" /> 
+  <img src="https://stats-github-readme.vercel.app/api?username=DHEERAJSONKAR&show_icons=true&theme=tokyonight" width="48%" />
 </p>
 
 
