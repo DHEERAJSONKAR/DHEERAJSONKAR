@@ -47,7 +47,11 @@
 
 ### 📈 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DHEERAJSONKAR&show_icons=true&theme=tokyonight&border_radius=10&custom_title=Dheeraj's+GitHub+Stats" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=DHEERAJSONKAR&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="48%" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DHEERAJSONKAR&show_icons=true&theme=tokyonight&border_radius=10&custom_title=Dheeraj+GitHub+Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DHEERAJSONKAR&theme=tokyonight&border_radius=10" width="48%" />
+</p>
+
 <div align="center"> <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" /> </div>
 
 
